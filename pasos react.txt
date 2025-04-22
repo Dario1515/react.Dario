@@ -1,0 +1,11 @@
+PASOS:
+1- npm create vite@latest
+2- pongo el nombre : el-nombre-que-yo-quiera
+3- seleccionamos el framework o librería: ponemos React
+4- seleccionamos la variante: ponemos JS
+5- cd el-nombre-que-yo-quiera   //para entrar a la carpeta del proyecto
+6- npm install
+npm run dev
+
+
+Desktop/React/darioreact
